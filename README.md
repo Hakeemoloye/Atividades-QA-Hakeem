@@ -1,2 +1,2 @@
-# chatbot
-meus projetos de automação
+# QA
+Atividades de QA
